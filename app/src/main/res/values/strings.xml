@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PasswordMVP</string>
+    <string name="pass">Escriba un password</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="título">Compruebe su password</string>
+
+</resources>
